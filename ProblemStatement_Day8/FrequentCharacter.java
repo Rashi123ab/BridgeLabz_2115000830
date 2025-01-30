@@ -1,27 +1,20 @@
-import java.util.*;
-public class FrequentCharacter{
-    public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the string:");
-        String s=sc.nextLine();
-
-        char mostFrequent=findMostFrequentCharacter(s);
-        System.out.println("Most Frequent Character: '" + mostFrequent + "'");
-    }
-    public static char findMostFrequentCharacter(String s){
-        Map<Character,Integer> frequencyMap=new HashMap<>();
-        for(char c:s.toCharArray()){
-            frequencyMap.put(c,frequencyMap.getOrDefault(c, 0)+1);
-        }
-        char mostFrequentChar = s.charAt(0);
-        int maxCount = 0;
-        for(Map.Entry<Character,Integer>entry:frequencyMap.entrySet()){
-            if(entry.getValue()>maxCount){
-                maxCount=entry.getValue();
-                mostFrequentChar=entry.getKey();
+import java.util.Scanner;
+public class FrequentCharacter {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        System.out.print("Enter a string: ");
+        String str = sc.nextLine();
+        int[] freq = new int[256];
+        int maxFreq = 0;
+        char mostFrequentChar = ' ';
+        for (char c : str.toCharArray()) {
+            freq[c]++;
+            if (freq[c] > maxFreq) {
+                maxFreq = freq[c];
+                mostFrequentChar = c;
             }
         }
-        return mostFrequentChar;
+        
+        System.out.println("Most Frequent Character: '" + mostFrequentChar + "'");
     }
 }
-
