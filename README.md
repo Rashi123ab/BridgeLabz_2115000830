@@ -4,4 +4,5 @@ Day3-21-01-25: Covered documents Java Programming elements 01,02 and 03.
 Day4-22-01-25: Solved and submitted assignment Programming Elements Practices ,Level 1 and 2. Solved and run all these programs using nano command in git bash.
 Day5-23-01-25: Solved and submitted assignment Control Flow Practices,Level 1,2 and 3.Solved and run all these programs using nano command in git bash.
 Day6-24-01-25: Solved and submitted Assignments on Java Arrays Level 01 and 02.Solved and run all these programs using nano command in git bash.
-
+Day7-28-01-25:Solved and Submitted Assignment on Java Methods 02,03 and 04.Solved and run all these programs using nano command in git bash.
+Day8-29-01-25:Solved and Submitted Assignment practice problems on Built in function and also on java String.Solved and run all these programs using nano command in git bash.
