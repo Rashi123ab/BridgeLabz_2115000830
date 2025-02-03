@@ -6,3 +6,5 @@ Day5-23-01-25: Solved and submitted assignment Control Flow Practices,Level 1,2 
 Day6-24-01-25: Solved and submitted Assignments on Java Arrays Level 01 and 02.Solved and run all these programs using nano command in git bash.
 Day7-28-01-25:Solved and Submitted Assignment on Java Methods 02,03 and 04.Solved and run all these programs using nano command in git bash.
 Day8-29-01-25:Solved and Submitted Assignment practice problems on Built in function and also on java String.Solved and run all these programs using nano command in git bash.
+Day9-30-01-25:Solved and submitted assignment on java class and object.Solved and run all these programs using nano command in git bash.
+Day10-01-02-25:Solved and submitted assignment on Java Constructors Instance vs. Class Variables, Access Modifiers Level 1 .Solved and executed all these programs using nano command in git bash.
