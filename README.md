@@ -14,7 +14,7 @@ Day13-05-02-25:Solved assignment on Object Oriented Design Principles
                             - Class Diagram
                             - Object Diagrams
                            - Sequence Diagrams\
-Day14-07-02-25:Solved Assignment on Submission of Inheritance\
+Day14-07-02-25:Solved Assignment on Submission of Inheritance
 - Inheritance
 - Single Level Inheritance
 - Multilevel Inheritance
@@ -25,16 +25,16 @@ Day14-07-02-25:Solved Assignment on Submission of Inheritance\
 - Polymorphism and Inheritance
  - Access Modifiers and Inheritance\
 Day15-10-02-25:Solved Assignment on Submission of Encapsulation, Polymorphism, Interface and Abstract Class.\
-Day16-11-02-25:Read Materials of 01 - Data Structure Introduction and LinkedList\
+Day16-11-02-25:Read Materials of 01 - Data Structure Introduction and LinkedList
 - Introduction of Data Structure 
 - Key Features of Data Structures in Java
 - Types of Data Structures in Java
 - Single Linked List
 - Double Linked List
 - Circular Linked List\
-Day17-12-02-25:Solved Assignment on 01 Submission of Data Structure\
+Day17-12-02-25:Solved Assignment on 01 Submission of Data Structure
  -LinkedList
 - Single Linked List
 - Double Linked List
 - Circular Linked List\
-Day18-13-02-25:Solved assignment on Stack , Queue, HashMap and Hashing Function 02.\
+Day18-13-02-25:Solved assignment on Stack , Queue, HashMap and Hashing Function 02.
