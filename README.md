@@ -42,4 +42,5 @@ Day19-12-02-25:Solved Assignment on 01 Submission of Data Structure
 Day20-13-02-25:Solved assignment on Stack , Queue, HashMap and Hashing Function 02.\
 Day21-14-02-25:Solved Assignments on Sorting Algorithm.\
 Day22-15-02-25:Solved Assignment 04 and 05 Submission of Linear and Binary Search.\
-Day23-17-02-25:Solved Assignment 06- Submission of Algorithm's Runtime Analysis & Big-O Notation.
+Day23-17-02-25:Solved Assignment 06- Submission of Algorithm's Runtime Analysis & Big-O Notation.\
+Day24-18-02-25:Solved Assignment 01 Submission of Java Generics.Also learned about generics class and methods and wildcard methods.
