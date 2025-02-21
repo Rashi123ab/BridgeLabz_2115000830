@@ -43,4 +43,14 @@ Day20-13-02-25:Solved assignment on Stack , Queue, HashMap and Hashing Function 
 Day21-14-02-25:Solved Assignments on Sorting Algorithm.\
 Day22-15-02-25:Solved Assignment 04 and 05 Submission of Linear and Binary Search.\
 Day23-17-02-25:Solved Assignment 06- Submission of Algorithm's Runtime Analysis & Big-O Notation.\
-Day24-18-02-25:Solved Assignment 01 Submission of Java Generics.Also learned about generics class and methods and wildcard methods.
+Day24-18-02-25:Solved Assignment 01 Submission of Java Generics.Also learned about generics class and methods and wildcard methods.\
+Day25-19-02-25:Solved Assignment 02 Submission of Collections.\
+Day26-20-02-25:Learned about 03 Java Streams
+Java I/O Streams
+Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer\
+Day27-21-02-25:Solved Assignment on 03 Java Streams and also on 04 Exception Handling.
