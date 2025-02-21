@@ -1,0 +1,8 @@
+hi..I am Rashi Agrawal.Name: rashi
+Age: 20
+Favorite singer: arjit singh
+----------------------
+Name: rashi
+Age: 21
+Favorite Programming language: java
+----------------------
