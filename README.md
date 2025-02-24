@@ -54,5 +54,6 @@ Types of Streams
 4. Buffered Streams
 5. Reader and Writer\
 Day27-21-02-25:Solved Assignment on 03 Java Streams and also on 04 Exception Handling.\
-Day28-22-02-25:Solved Assignment on Regex and Junit.
+Day28-22-02-25:Solved Assignment on Regex and Junit.\
+Day29-24-02-25:Solved Assignment on Reflection and Annotations.
 
