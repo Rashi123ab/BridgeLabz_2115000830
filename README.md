@@ -56,5 +56,6 @@ Types of Streams
 Day27-21-02-25:Solved Assignment on 03 Java Streams and also on 04 Exception Handling.\
 Day28-22-02-25:Solved Assignment on Regex and Junit.\
 Day29-24-02-25:Solved Assignment on Reflection and Annotations.\
-Day30-25-02-25:Solved Assignment on CSV data handling.
+Day30-25-02-25:Solved Assignment on CSV data handling.\
+Day31-26-02-25:Solved Assignments on JSON Data.Also read its concept with the help of provided materials.
 
