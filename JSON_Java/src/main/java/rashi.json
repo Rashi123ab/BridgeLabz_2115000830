@@ -1,0 +1,9 @@
+{
+  "name": "Rashi",
+  "email": "rashia729@gmail.com",
+  "age": 25,
+  "address": {
+    "city": "India",
+    "zip": "221204"
+  }
+}
