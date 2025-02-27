@@ -57,5 +57,6 @@ Day27-21-02-25:Solved Assignment on 03 Java Streams and also on 04 Exception Han
 Day28-22-02-25:Solved Assignment on Regex and Junit.\
 Day29-24-02-25:Solved Assignment on Reflection and Annotations.\
 Day30-25-02-25:Solved Assignment on CSV data handling.\
-Day31-26-02-25:Solved Assignments on JSON Data.Also read its concept with the help of provided materials.
+Day31-26-02-25:Solved Assignments on JSON Data.Also read its concept with the help of provided materials.\
+Day32-27-02-25:Studying material on Tomcat servelet and how to create a Java Web Server to understand the complexity of Web Server.
 
